@@ -1,2 +1,5 @@
 # feijao-com-farinha
-## (67)
+Pendente: Atualizar o diagrama com os botões que fizemos na interface
+Terminar os fluxos principais e alternativos
+Fazer o menu
+Começar a estilização
